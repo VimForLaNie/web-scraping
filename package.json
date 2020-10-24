@@ -1,0 +1,30 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "node web-scraping testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VimForLaNie/web-scraping.git"
+  },
+  "keywords": [
+    "web-scraping"
+  ],
+  "author": "VimForLaNie",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^0.20.0",
+    "express": "^4.17.1",
+    "hapi": "^13.0.0",
+    "local-web-server": "^4.2.1",
+    "request": "^2.88.2"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VimForLaNie/web-scraping/issues"
+  },
+  "homepage": "https://github.com/VimForLaNie/web-scraping#readme"
+}
